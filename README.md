@@ -1,4 +1,4 @@
-hi i'm krow (he/they), i like to make things sometimes.
+hi i'm kofe, i like to make things sometimes.
 
 <!---
 mrtealover/mrtealover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
